@@ -3,4 +3,28 @@
 
 # First Pull Request
 
-A step-by-step guide to submiting open-source software patches on GitHub.
+An introduction to proposing changes to open-source software via GitHub [pull requests](https://docs.github.com/en/pull-requests)
+
+## Table of contents
+
+```{toctree}
+:maxdepth: 1
+:name: mastertoc
+:numbered:
+
+mission
+repo
+yaml
+issues
+edits
+commits
+forks
+pullrequests
+merges
+actions
+end
+```
+
+## About
+
+This guide was prepared by [Ben Welsh](https://palewi.re/who-is-ben-welsh/) and [Simon Willison](https://simonwillison.net/) for an online tutorial in December 2022.
