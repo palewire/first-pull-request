@@ -5,7 +5,7 @@
 
 GitHub’s issue tracker is a way to track tasks, enhancements and bugs. Each issue has its own page where you can provide details about the problem or idea, and where others can contribute to the discussion. You can use labels and milestones to organize your issues and track their progress.
 
-Every repository has its own tracker, which you can find by clicking the "Issues" tab in the upper right. In our case, it will take you to [github.com/palewire/cummings.ee/issues](https://github.com/palewire/cummings.ee/issues).
+Every repository has its own tracker, which you can find by clicking the "Issues" tab in the upper left. In our case, it will take you to [github.com/palewire/cummings.ee/issues](https://github.com/palewire/cummings.ee/issues).
 
 [![cummings.ee issue tracker](_static/img/issue-tracker.png)](https://github.com/palewire/cummings.ee/issues)
 
