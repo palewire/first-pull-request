@@ -20,3 +20,7 @@ GitHub has several code review features that are available in a pull request. Th
 * Change requests: This allows reviewers to ask the person who created the pull request to make specific changes to the code, before the pull request is merged.
 
 In the case of this project, the maintainer's chief code is to compare the quality of the transcription against the source materials. Once that hurdle has been clear, pull requests can be merged in by pressing the green "Merge pull request" button.
+
+![A merged pull request](_static/img/merged.png)
+
+That will take the code from your fork and include it in the main branch of the original repository.

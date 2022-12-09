@@ -5,10 +5,11 @@
 
 When you land on [github.com/palewire/cummings.ee](https://github.com/palewire/cummings.ee), you'll see that the repository is already populated with an array of folders and files. This is the code that powers cummings.ee by providing the HTML layout, its cosmetic style and, most important, its content.
 
-Everything is arranged according to the specifications of a “framework.” What's that? Nothing more than fancy name for a set of software tools designed to work together. It can take dozens of different tricks to put a website together. Frameworks aim to make the challenge easier by curating an array of tools into a simplified arrangement that saves time, like a tool belt.
+[![github.com/palewire/cummings.ee](_static/img/cummings-repo.png)](https://github.com/palewire/cummings.ee)
+
+Everything is arranged according to the specifications of the “framework” employed by the site's creators. What's a framework? Nothing more than fancy name for a set of software tools designed to work together. It can take dozens of different tricks to put a website together. Frameworks aim to make the challenge easier by curating an array of tools into a simplified arrangement that saves time, like a tool belt.
 
 Some frameworks are more popular than others. The programming languages and the details vary, but the fundamentals are almost all the same. Other examples include [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) or [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) or [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)).
-
 
 [![github.com/datadesk/baker](_static/img/baker-repo.png)](https://github.com/datadesk/baker)
 
@@ -20,7 +21,7 @@ Baker is what is known as a static-site framework. Static-site frameworks allow 
 
 This class will not cover how to build a website with baker. If you're interested in that, you should explore [“First Visual Story,”](https://palewi.re/docs/first-visual-story/) a separate tutorial that will guide you through every step of the process.
 
-Today you will only need to navigate to the folder where poems are transcribed. We will be adding works drawn from [“is 5,”](https://cummings.ee/book/is-5/) a book of verse that was first published by Boni & Liveright in 1926. Due to the way U.S. copyright works, it entered the public domain on January 1, 2022, which allows anyone to legally republish and build off the intellectual property.
+Today you will only need to navigate to the folder where poems are transcribed. We will be adding works drawn from [“is 5,”](https://cummings.ee/book/is-5/) a book of verse that was first published by Boni & Liveright in 1926. Due to the way U.S. copyright works, it entered the public domain on January 1, 2022, allowing anyone to legally republish and build off the intellectual property.
 
 [![“is 5” on cummings.ee](_static/img/is-5.png)](https://cummings.ee/book/is-5/)
 

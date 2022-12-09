@@ -7,10 +7,12 @@ GitHub’s issue tracker is a way to track tasks, enhancements and bugs. Each is
 
 Every repository has its own tracker, which you can find by clicking the "Issues" tab in the upper left. In our case, it will take you to [github.com/palewire/cummings.ee/issues](https://github.com/palewire/cummings.ee/issues).
 
+As of this writing, you should seen several dozen issues asking contributors to enter poems. You should click on a title that interests you.
+
 [![cummings.ee issue tracker](_static/img/issue-tracker.png)](https://github.com/palewire/cummings.ee/issues)
 
-As of this writing, you should seen several dozen issues asking contributors to enter poems. You should click on a title that interests you.
+There you will find a comment with two links. One to poem's YAML file. Another to a digital scan of the page in a first edition of "is 5" where the poem was originally published.
 
 [![cummings.ee issue](_static/img/issue.png)](https://github.com/palewire/cummings.ee/issues/179)
 
-There you will find a comment with two links. One to poem's YAML file. Another to a digital scan of the page in a first edition of "is 5" where the poem was originally published. Open the two links in separate browser tabs.
+Open the two links in separate browser tabs.

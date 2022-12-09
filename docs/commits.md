@@ -5,13 +5,13 @@
 
 Once you're confident in your transcription, the next step is to save your work using another version control technique: the commit.
 
-A code commit is a log that records changes made to a repository. It marks a point in time at which the code is saved, along with a description of the changes that were made.
+A code commit is a log that records changes made to a repository. It marks a point in time at which the code is saved, including a description of what was changed.
 
-In the github.dev interface, you can do this by clicking on the source control icon with a blue notification bubble on the left hand panel.
+In the github.dev interface, you can do this by clicking on the source control icon with a blue notification bubble on the left-hand panel.
 
 ![The source control button](_static/img/source-control.png)
 
-In the form that appears, your should enter a brief message into the text box that describes your changes. This will be logged into the repository with the commit. While it's not required, it is considered good form to include the number printed at the top of your issue's page.
+In the form that appears, your should enter a brief message into the text input describing your changes. This will be logged into the repository with the commit. While it's not required, it is considered good form to include the number printed at the top of your issue's page. This will link your code commit with the issue tracker.
 
 [![cummings.ee issue](_static/img/issue.png)](https://github.com/palewire/cummings.ee/issues/179)
 
