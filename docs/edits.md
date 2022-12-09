@@ -3,7 +3,7 @@
 
 # Edits
 
-When you arrive on the YAML page, you should see that the `text` attribute we saw earlier is absent. That confirms that poems has yet to be transcribed.
+When you arrive on the YAML page, you should see that the `text` attribute we saw earlier is absent. That confirms that the poem has yet to be transcribed.
 
 ![A cummings.ee poem YAML file](_static/img/no-edits.png)
 
