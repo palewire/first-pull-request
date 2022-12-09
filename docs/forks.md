@@ -5,7 +5,7 @@
 
 A fork is a copy of a repository that belongs to someone else. When you fork a repository, you create a personal copy of the original.
 
-You can then make changes to your fork without affecting the original repository. This is useful if you want to make changes to a project when you don't have permission to edit the original.
+You can change your fork without affecting the original repository. This is useful if you want to suggest changes to a project when you don't have permission to edit the original.
 
 ![Fork](_static/img/fork.png)
 
