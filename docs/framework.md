@@ -13,7 +13,7 @@ Some frameworks are more popular than others. The programming languages and the 
 
 [![github.com/datadesk/baker](_static/img/baker-repo.png)](https://github.com/datadesk/baker)
 
-The cummings.ee repository is an example of a site built with [baker](https://github.com/datadesk/baker), a framework invented at the Los Angeles Times. Its also used by ProPublica, THE CITY and The Baltimore Banner, among others. Like cummings.ee, baker is freely available on GitHub at [github.com/datadesk/baker](https://github.com/datadesk/baker).
+The cummings.ee repository is an example of a site built with [baker](https://github.com/datadesk/baker), a framework invented at the Los Angeles Times. It’s also used by ProPublica, THE CITY and The Baltimore Banner, among others. Like cummings.ee, baker is freely available on GitHub at [github.com/datadesk/baker](https://github.com/datadesk/baker).
 
 Baker is what is known as a static-site framework. Static-site frameworks allow you to build websites using only flat files, such as HTML, CSS, and JavaScript. Unlike a traditional “dynamic” website, which relies on a server-side language like PHP or Ruby to generate content on the fly, a static site is pre-generated and served as-is to the user. This has several benefits, including faster load times, better security and simpler deployment. Some other examples of static site frameworks are [Jekyll](https://en.wikipedia.org/wiki/Jekyll), [Gatsby](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)) and [Hugo](https://gohugo.io/).
 
