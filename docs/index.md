@@ -14,6 +14,7 @@ An introduction to proposing changes to open-source software via GitHub [pull re
 
 mission
 repo
+project
 yaml
 issues
 edits
