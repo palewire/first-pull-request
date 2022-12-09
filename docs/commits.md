@@ -25,4 +25,12 @@ Draft something similar, customized to fit your poem and issue number. Then ente
 
 ![Fork popup](_static/img/fork-popup.png)
 
-Because you are not an owner of the cummings.ee repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork respository" button and advance to the next chapter.
+Because you are not an owner of the cummings.ee repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork respository" button. A small box will appear asking you to enter name. Accept the default value, which should be something like `patch-1`
+
+![Naming the fork](_static/img/name-fork.png)
+
+Finally, it will ask you if you want to "switch" to your forked repository. Hit the green button.
+
+![Switching to fork](_static/img/switch-fork.png)
+
+Once the page reloads, you should hit the menu button in the upper left and select the "Go to repository" option at the bottom of the pulldown.
