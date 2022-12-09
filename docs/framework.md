@@ -3,7 +3,7 @@
 
 ## The framework
 
-When you land on [github.com/palewire/cummings.ee](https://github.com/palewire/cummings.ee), you'll see that the repository is already populated with an array of folders and files. This is the code that powers cummings.ee by providing the HTML layout, its cosmetic style and, most important, its content.
+When you land on [github.com/palewire/cummings.ee](https://github.com/palewire/cummings.ee), you'll see that the repository is already populated with an array of folders and files. This is the code that powers [cummings.ee](https://cummings.ee/) by providing the HTML layout, its cosmetic style and, most important, its content.
 
 [![github.com/palewire/cummings.ee](_static/img/cummings-repo.png)](https://github.com/palewire/cummings.ee)
 
