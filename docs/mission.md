@@ -9,5 +9,5 @@ You will fork a code repository, make edits to the source and then propose your 
 
 [![cummings.ee](_static/img/cummings-archive.png)](https://cummings.ee)
 
-As part of the practice, students will make real contributions to [cummings.ee](https://cummings.ee), the in-progress, crowdsourced effort to transcribe the poetry of [Edward Estlin Cummings](https://en.wikipedia.org/wiki/E._E._Cummings).
+As part of the practice, you will make a real contribution to [cummings.ee](https://cummings.ee), the in-progress, crowdsourced effort to transcribe the poetry of [Edward Estlin Cummings](https://en.wikipedia.org/wiki/E._E._Cummings).
  
