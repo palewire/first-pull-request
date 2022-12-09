@@ -5,7 +5,7 @@
 
 A repository is a place where you can store and manage your code. It's like a digital folder where put all the files related to a specific project, and share them with others, if you want to.
 
-One crucial thing that makes a repository different from a traditional folder is that it employs [version control](https://en.wikipedia.org/wiki/Version_control), an automated technique for tracking changes to files over time. Version control allows you to carefully manage changes and roll back to previous versions if something goes wrong. That's important in computer programming because code is so brittle; A single typo can crash an entire site.
+One crucial thing that makes a repository different from a traditional folder is that it employs [version control](https://en.wikipedia.org/wiki/Version_control), an automated technique for tracking changes to files over time. Version control allows you to carefully manage edits and roll back to previous iterations if something goes wrong. That's important in computer programming because code is so brittle; A single typo can crash an entire site.
 
 Version control is also useful when working on a team or when collaborating volunteers in other locations because it allows you to see who made changes to the code, and when. It also helps you avoid conflicts when multiple people are working on the same project.
 
