@@ -11,7 +11,7 @@ This is done via the same GitHub interface you see, with greater powers granted 
 
 ![A pull request from the POV of an admin](_static/img/admin-pr.png)
 
-Regardless of whether they decide to accept or reject the changes, the maintainer should communicate with the person who created the pull request. This could involve commenting on the pull request directly, or contacting them through other means. The goal is to provide clear and constructive feedback, and to help the person understand why the pull request was accepted or rejected.
+Regardless of whether they decide to accept or reject the changes, the maintainer should communicate with the person who created the pull request using GitHub's interface. The goal is to provide clear and constructive feedback, to request any necessary changes and to help the person understand why the pull request was accepted or rejected.
 
 GitHub has several code review features that are available in a pull request. They include:
 
@@ -19,7 +19,7 @@ GitHub has several code review features that are available in a pull request. Th
 * Threaded conversations: These allow reviewers and contributors to have a back-and-forth discussion about the changes being proposed, without cluttering up the pull request with long lists of comments.
 * Change requests: This allows reviewers to ask the person who created the pull request to make specific changes to the code, before the pull request is merged.
 
-In the case of this project, the maintainer's chief code is to compare the quality of the transcription against the source materials. Once that hurdle has been clear, pull requests can be merged in by pressing the green "Merge pull request" button.
+In the case of this project, the maintainer's chief responsibility is to verify that the YAML is properly formatted and to compare the quality of the transcription against the source materials. Once those hurdles have been cleared, the pull request can be merged in by pressing the green "Merge pull request" button.
 
 ![A merged pull request](_static/img/merged.png)
 
