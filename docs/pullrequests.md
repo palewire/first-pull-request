@@ -7,7 +7,7 @@ When you commit to a fork, GitHub presumes you're interested in proposing a chan
 
 ![Fork](_static/img/fork.png)
 
-A pull request allows the owner of the original repository to review your changes, discuss them with you and decide whether or not to accept them. This is the most common way to collaborate on projects on GitHub.
+A pull request allows the owner of the original repository to review your changes, discuss them with you and decide whether or not to accept them. This is the most common way to collaborate on GitHub.
 
 To start the process, click the green "Compare & pull request" button.
 
