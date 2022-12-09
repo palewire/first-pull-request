@@ -1,12 +1,13 @@
-.dr@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,700;0,800;1,400;1,800&display=swap');
-
-div.document {
-    margin-top: 0;
-}
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,700;0,800;1,400;1,800&display=swap');
 
 div.body {
     min-width: 0 !important;
 }
+
+div.document {
+  margin: 0 auto 0 auto !important;
+}
+
 
 div.body p, div.body li {
     line-height: 1.45;
