@@ -5,7 +5,7 @@
 
 Once you're confident in your transcription, the next step is to save your work using another version control technique: the commit.
 
-A code commit is a log that records changes made to a repository. It marks a point in time at which the code is saved, along with a description of the changes that were made. Commits are often used in version control systems like Git, where they are used to track the history of a project and allow developers to roll back to previous versions if necessary.
+A code commit is a log that records changes made to a repository. It marks a point in time at which the code is saved, along with a description of the changes that were made.
 
 In the github.dev interface, you can do this by clicking on the source control icon with a blue notification bubble on the left hand panel.
 
