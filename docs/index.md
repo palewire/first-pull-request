@@ -3,7 +3,7 @@
 
 # First Pull Request
 
-An introduction to proposing changes to open-source software via GitHub [pull requests](https://docs.github.com/en/pull-requests)
+How to propose changes to open-source software using GitHub [pull requests](https://docs.github.com/en/pull-requests)
 
 ## Table of contents
 
