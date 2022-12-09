@@ -17,7 +17,7 @@ The cummings.ee repository is an example of a site built with [baker](https://gi
 
 Baker is what is known as a static-site framework. Static-site frameworks allow you to build websites using only flat files, such as HTML, CSS, and JavaScript. Unlike a traditional “dynamic” website, which relies on a server-side language like PHP or Ruby to generate content on the fly, a static site is pre-generated and served as-is to the user. This has several benefits, including faster load times, better security and simpler deployment. Some other examples of static site frameworks are [Jekyll](https://en.wikipedia.org/wiki/Jekyll), [Gatsby](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)) and [Hugo](https://gohugo.io/).
 
-[![“First Visual Story”](_static/img/first-visual-story.png)](palewi.re/docs/first-visual-story/)
+[![“First Visual Story”](_static/img/first-visual-story.png)](https://palewi.re/docs/first-visual-story/)
 
 This class will not cover how to build a website with baker. If you're interested in that, you should explore [“First Visual Story,”](https://palewi.re/docs/first-visual-story/) a separate tutorial that will guide you through every step of the process.
 
