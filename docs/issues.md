@@ -7,7 +7,7 @@ GitHub’s issue tracker is a way to track tasks, enhancements and bugs. Each is
 
 Every repository has its own tracker, which you can find by clicking the "Issues" tab in the upper left. In our case, it will take you to [github.com/palewire/cummings.ee/issues](https://github.com/palewire/cummings.ee/issues).
 
-As of this writing, you should seen several dozen issues asking contributors to enter poems. You should click on a title that interests you.
+As of this writing, you should seen several dozen issues asking contributors to enter poems. Click on a title that interests you.
 
 [![cummings.ee issue tracker](_static/img/issue-tracker.png)](https://github.com/palewire/cummings.ee/issues)
 
