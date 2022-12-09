@@ -18,7 +18,7 @@ In the form that appears, your should enter a brief message into the text box th
 In the case of this example, a reasonable commit message could read:
 
 ```
-Transcription of "if being moticed with a dream." Fixes #179
+Transcription of "if being morticed with a dream." Fixes #179
 ```
 
 Draft something similar, customized to fit your poem and issue number. Then enter it into the form's box and press the green "Commit & Push" button below. You should see a popup box.
