@@ -21,7 +21,7 @@ The larger text box below offers you the opportunity to explain your proposal. Y
 * Detailed information about each change you made. This could be a list of the files you changed, and a description of what you changed in each one.
 * Links to any relevant issues or discussions that led to the changes you are proposing. This will help the owner of the original repository understand the context for your changes.
 
-Overall, the more information you include with your pull request the easier it will be for the owner to understand and evaluate your changes. In cases where you don't know the maintainer or when you're making your first proposal, you should be as clear and detailed as possible. The code belongs to them, not you. Try to be polite, clear and pursuasive.
+Overall, the more information you include with your pull request the easier it will be for the owner to understand and evaluate your changes. In cases where you don't know the maintainer or when you're making your first proposal, you should be as clear and detailed as possible. The code belongs to them, not you. Try to be polite, clear and persuasive.
 
 In this case, you shouldn't feel the need to explain yourself. The issue is very straightforward, as is your commit message. Simply pressing the green "Create pull request button" should be enough.
 
