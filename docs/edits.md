@@ -11,7 +11,7 @@ To begin editing, click the down arrow next to the pencil-shaped icon at the upp
 
 ![The GitHub pencil button pulldown](_static/img/pencil.png)
 
-That will open a new panel where you are free to start editing the code in GitHub's web editor, which allows you make changes to repositories directly from your web browser.
+That will open a new panel where you are free to start editing the code in GitHub's web editor, which allows you to make revisions from your web browser.
 
 ![github.dev's web editing panel](_static/img/editor.png)
 
