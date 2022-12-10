@@ -7,7 +7,7 @@ When you land on [github.com/palewire/cummings.ee](https://github.com/palewire/c
 
 [![github.com/palewire/cummings.ee](_static/img/cummings-repo.png)](https://github.com/palewire/cummings.ee)
 
-Everything is arranged according to the specifications of the “framework” employed by the site's creators. What's a framework? Nothing more than fancy name for a set of software tools designed to work together. It can take dozens of different tricks to put a website together. Frameworks aim to make the challenge easier by curating an array of tools into a simplified arrangement that saves time, like a tool belt.
+Everything is arranged according to the specifications of the “framework” employed by the site's creators. What's a framework? Nothing more than fancy name for a set of software tools designed to work together. It can take dozens of different tricks to assemble a website. Frameworks aim to make the challenge easier by curating an array of tools into a simplified arrangement that saves time, like a tool belt.
 
 Some frameworks are more popular than others. The programming languages and the details vary, but the fundamentals are almost all the same. Other examples include [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) or [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) or [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)).
 
