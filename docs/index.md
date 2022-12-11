@@ -28,4 +28,4 @@ end
 
 ## About
 
-This guide was prepared by [Ben Welsh](https://palewi.re/who-is-ben-welsh/) and [Simon Willison](https://simonwillison.net/) for an online tutorial in December 2022. Some of the copy was written with the assistance of [OpenAI's ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
+This guide was prepared by [Ben Welsh](https://palewi.re/who-is-ben-welsh/) and [Simon Willison](https://simonwillison.net/) for an online tutorial in December 2022. Some of the copy was written with the assistance of [OpenAI's ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). A video recording of the class is [available on YouTube](https://www.youtube.com/watch?v=E5cVRseyEOA).
