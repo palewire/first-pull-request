@@ -1,3 +1,2 @@
 Sphinx
 myst-parser
-sphinx-multitoc-numbering

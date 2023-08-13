@@ -3,17 +3,15 @@
 
 # YAML
 
-Once you've entered the [poem folder](https://github.com/palewire/cummings.ee/tree/master/_data/poems/is-5) for “is 5”, you should see a list of files. Each one aims to contain the contents of a poem, along with metadata describing it like its title.
+Once you've entered the [dictionary folder](https://github.com/palewire/moneyinpolitics.wtf/tree/main/_data/dictionary), you should see a list of files. Each one contains a word's definition, along with other metadata describing it like whether it is a noun or a verb.
 
-[![The poems folder](_static/img/poem-folder.png)](https://github.com/palewire/cummings.ee/tree/master/_data/poems/is-5)
+[![The dictionary folder](_static/img/data-dir.png)](https://github.com/palewire/moneyinpolitics.wtf/tree/main/_data/dictionary)
 
 Note that each file's name ends with `.yaml`. That tells computers that the file is expected to contain data structured in YAML format.
 
-[YAML](https://en.wikipedia.org/wiki/YAML) is a data serialization language. It is used to represent data structures in a human-readable and easy-to-write format. YAML stands for "YAML Ain't Markup Language," because it is not a markup language like HTML or XML (and because nerds like inventing [silly acronyms](https://en.wikipedia.org/wiki/Backronym).)
+[YAML](https://en.wikipedia.org/wiki/YAML) is a data serialization language. It is used to represent data structures in a human-readable and easy-to-write format. YAML stands for "YAML Ain't Markup Language," because it does not wrap data in surrounding tags like HTML or XML (and because nerds like inventing [silly acronyms](https://en.wikipedia.org/wiki/Backronym).)
 
-YAML is often used for configuration files, data storage and communication between different systems. It is a flexible and powerful language supported by many popular programming languages and tools.
-
-Here is a simple example of a YAML file:
+YAML is often used for configuration files, data storage and communication between different systems. Here is a simple example:
 
 ```yaml
 # This is a comment
@@ -38,14 +36,14 @@ address:
   zip: 99999
 ```
 
-The cummings.ee repository has its own custom data structure expressed in YAML. You can see an example of a fully entered poem by clicking on the first file in the list, [`five-americans-i.yaml`](https://github.com/palewire/cummings.ee/blob/master/_data/poems/is-5/five-americans-i.yaml)
+The moneyinpolitics.wtf repository has its own custom data structure expressed in YAML. You can see an example of a fully entered definition by clicking on any file in the list, such as [`contribution.yaml`](https://github.com/palewire/moneyinpolitics.wtf/blob/main/_data/dictionary/contribution.yaml)
 
-[![An example of a poem in YAML](_static/img/example-poem.png)](https://github.com/palewire/cummings.ee/blob/master/_data/poems/is-5/five-americans-i.yaml)
+[![An example of a definition in YAML](_static/img/example-word.png)](https://github.com/palewire/moneyinpolitics.wtf/blob/main/_data/dictionary/contribution.yaml)
 
-You can see that several pieces of metadata — like the `title` and the `first_line` — are at the top. At the bottom you can see the full text of the poem, including its indentation, entered in the `text` attribute.
+You can see that several pieces of metadata — like the `word` and the `type` — are at the top. At the bottom you can see a list of definitions, including examples of reuse, entered in the `definition_list` attribute.
 
-When the site is published, the data stored in YAML files are rendered into [an HTML template](https://github.com/palewire/cummings.ee/blob/master/_layouts/poem_detail.html) and served to the reader. You can find this poem at [cummings.ee/book/is-5/poem/five-americans-i/](https://cummings.ee/book/is-5/poem/five-americans-i/). Note that the slug at the end of the URL matches the name of the file.
+When the site is published, the data stored in YAML files are rendered into [an HTML template](https://github.com/palewire/moneyinpolitics.wtf/blob/main/_layouts/word-detail.html) and served to the reader. You can find this definition at [moneyinpolitics.wtf/contribution/](https://moneyinpolitics.wtf/contribution/). Note that the slug at the end of the URL matches the name of the file.
 
-[![“LIZ”](_static/img/liz.png)](https://cummings.ee/book/is-5/poem/five-americans-i/)
+[!["contribution"](_static/img/contribution.png)](https://moneyinpolitics.wtf/contribution/)
 
-Next you will find a poem that has yet to be entered so you can offer a transcription for inclusion in the repository.
+Next you will find a definition that would benefit from your contribution.

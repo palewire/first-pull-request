@@ -18,14 +18,14 @@ In the form that appears, your should enter a brief message into the text input 
 In the case of this example, a reasonable commit message could read:
 
 ```
-Transcription of "if being morticed with a dream." Fixes #179
+Added example of "contribution" in use. Fixes #127
 ```
 
-Draft something similar, customized to fit your poem and issue number. Then enter it into the form's box and press the green "Commit & Push" button below. You should see a popup box.
+Draft something similar, customized to fit your definition and issue number. Then enter it into the form's box and press the green "Commit & Push" button below. You should see a popup box.
 
 ![Fork popup](_static/img/fork-popup.png)
 
-Because you are not an owner of the cummings.ee repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork respository" button.
+Because you are not an owner of the moneyinpolitics.wtf repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork respository" button.
 
 A small box will appear asking you to enter a name. Accept the default value, which should be something like `patch-1`.
 
@@ -36,3 +36,5 @@ Finally, it will ask you if you want to "switch" to your forked repository. Hit 
 ![Switching to fork](_static/img/switch-fork.png)
 
 Once the page reloads, you should hit the menu button in the upper left and select the "Go to repository" option at the bottom of the pulldown.
+
+![Go to repository](_static/img/go-to-repo.png)

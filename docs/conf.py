@@ -10,12 +10,11 @@ sys.path.insert(0, str(THIS_DIR.parent))
 
 extensions = [
     "myst_parser",
-    "sphinx_multitoc_numbering",
 ]
 templates_path = ["_templates"]
 source_suffix = ".rst"
 master_doc = "index"
-html_extra_path = ["_extra"]
+html_extra_path = []
 
 project = "First Pull Request"
 year = datetime.now().year

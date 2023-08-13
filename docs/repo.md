@@ -11,6 +11,6 @@ Version control is also useful when working with others because it allows you to
 
 [GitHub](https://en.wikipedia.org/wiki/GitHub) is, in essence, a social network centered on code repositories. It is built on top of a system called [Git](https://en.wikipedia.org/wiki/Git), one of several popular version control programs. Currently owned by Microsoft, GitHub is the most popular service of this sort. One key to its success is that it offers free hosting for projects that are open to the public.
 
-[![github.com/palewire/cummings.ee](_static/img/cummings-repo.png)](https://github.com/palewire/cummings.ee)
+[![github.com/palewire/moneyinpolitics.wtf](_static/img/moneyinpolitics-repo.png)](https://github.com/palewire/moneyinpolitics.wtf)
 
-The [cummings.ee](https://cummings.ee) website is controlled by a GitHub repository maintained by [Ben Welsh](https://palewi.re/who-is-ben-welsh/), who goes by the handle palewire. It can be found at [github.com/palewire/cummings.ee](https://github.com/palewire/cummings.ee). You should open its respository in a new tab before you continue. If you don't have a GitHub account already, [make one now](https://github.com/join).
+The [moneyinpolitics.wtf](https://moneyinpolitics.wtf) website is controlled by a GitHub repository maintained by [Ben Welsh](https://palewi.re/who-is-ben-welsh/), who goes by the handle palewire. It can be found at [github.com/palewire/moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf). You should open its respository in a new tab before you continue. If you don't have a GitHub account already, [make one now](https://github.com/join).

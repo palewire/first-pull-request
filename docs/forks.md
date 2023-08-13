@@ -7,7 +7,7 @@ A fork is a copy of a repository that belongs to someone else. When you fork a r
 
 You can change your fork without affecting the original. This is useful if you want to suggest changes to a project when you don't have permission to edit the source.
 
-You are now looking at your fork of the original cummings.ee repository. The only difference is the commit you just made, adding a new poem to the YAML directory for “is 5.”
+You are now looking at your fork of the original moneyinpolitics.wtf repository. The only difference is the commit you just made, adding a new example to a dictionary entry.
 
 ![Fork](_static/img/fork.png)
 

@@ -72,6 +72,11 @@ all:  # Start the test server
 	@cd docs && $(PIPENV) make livehtml
 
 
+serve:  # Start the test server
+	$(call banner,    🏗️ Building site 🏗️)
+	$(PIPENV) sphinx-autobuild -b html docs docs/html
+
+
 help: ## Show this help. Example: make help
 	@egrep -h '\s##\s' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 

@@ -3,31 +3,38 @@
 
 # Edits
 
-When you arrive on the YAML page, you should see that the `text` attribute we saw earlier is absent. That confirms that the poem has yet to be transcribed.
+When you arrive on the YAML page, you should see that the `is_use` attribute on the first defintion contains only a single entry.
 
-![A cummings.ee poem YAML file](_static/img/no-edits.png)
+!["contribution"](_static/img/example-word.png)
 
 To begin editing, click the down arrow next to the pencil-shaped icon at the upper right of the file. Select "open in github.dev" from the pulldown menu that appears.
 
 ![The GitHub pencil button pulldown](_static/img/pencil.png)
 
-That will open a new panel where you are free to start editing the code in GitHub's web editor, which allows you to make revisions from your web browser.
+That will open a new panel where you are free to start revising the repository's code in GitHub's web editor, which allows you to work from your web browser.
 
 ![github.dev's web editing panel](_static/img/editor.png)
 
-Paste the following YAML into the bottom of the file, which will create the `text` entry where you can transcribe the poem.
-
-```yaml
-text: |-1
- put your first line here
+```{note}
+ While most computer programmers prefer to download the repository's source code and use a text editor installed on their own computer, GitHub's web editor is a great way to experiment and get started.
 ```
 
-This is how cummings.ee has chosen to take advantage of YAML's method for handling strings of text that run over multiple lines. Note that the first line of the poem, which you should customize to match your verse, is indented by a single space. That is intended to match the `-1` configuration option we've passed in the line above. All subsequent lines should also be prefixed with a single space.
+Visit [Google News](https://news.google.com/) and search for the definition you are editing. Look for examples of the word used by a reputable media organization in a way that fits the definition.
 
-Now refer to the first edition of the poem [found on archive.org](https://archive.org/details/is-5-ee-cummings/page/n101/mode/2up). 
+In our demonstration case, we are editing the word "contribution." I found an example in [a story](https://www.reuters.com/legal/fugees-star-says-money-malaysian-financier-was-obama-photo-not-campaign-donation-2023-04-19/) published by Reuters, the world's largest independent news organization.
 
-![The first edition](_static/img/first-edition.png)
+[![A screenshot of the Reuters story](_static/img/contribution-story.png)](https://www.reuters.com/legal/fugees-star-says-money-malaysian-financier-was-obama-photo-not-campaign-donation-2023-04-19/)
 
-And enter the text exactly as it appears on the page into your YAML file.
+When you find an example for your definition, you should create a new YAML item. It should contain a `text` attribute with the sentence containing the word, the name of the `source` publication and a `url` attribute with the link to the story.
 
-![An entered poem](_static/img/entered.png)
+```yaml
+- text: "It is illegal for foreigners to donate to U.S. election campaigns, and it is also against the law to pay someone else to make a campaign contribution."
+  source: Reuters
+  url: https://www.reuters.com/legal/fugees-star-says-money-malaysian-financier-was-obama-photo-not-campaign-donation-2023-04-19/
+```
+
+That code snippet should be added to the `definition_list` attribute, which is a list of all the definitions for the word. It will need to be indented six spaces to be nested under the `definition_list` entry you're illustrating.
+
+![Draft example](_static/img/draft.png)
+
+It's important to indent the properly. The code will not work if it is not indented correctly. Take a look at the other definitions in the file to see how they are nested and try to match that.
