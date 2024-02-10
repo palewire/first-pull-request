@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Commits
 
 Once you're confident in your transcription, the next step is to save your work using another version control technique: the commit.

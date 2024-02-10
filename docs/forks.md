@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Forks
 
 A fork is a copy of a repository that belongs to someone else. When you fork a repository, you create a personal copy of the original that belongs to you.

@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Edits
 
 When you arrive on the YAML page, you should see that the `is_use` attribute on the first defintion contains only a single entry.

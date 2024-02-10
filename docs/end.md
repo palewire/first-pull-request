@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # The end
 
 Visit [moneyinpolitics.wtf](https://moneyinpolitics.wtf) in your browser and navigate to the page for your definition.

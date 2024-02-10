@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # What you will do
 
 If you complete this class, you will gain a basic understanding of how to submit an open-source software patch on [github.com](https://github.com), the leading code-management site. 

@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Repositories
 
 A repository is a place where you can store and manage your code. It's like a digital folder where you put all the files related to a specific project, and share them with others, if you want to.

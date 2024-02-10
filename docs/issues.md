@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Issues
 
 GitHub’s issue tracker is a way to track tasks, enhancements and bugs. Each issue has its own page where you can provide details about the problem or idea, and where others can contribute to the discussion. You can use labels and milestones to organize your issues and track their progress.

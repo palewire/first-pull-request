@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Pull requests
 
 When you commit to a fork, GitHub presumes you're interested in proposing a change to the original repository. To make life easier, it automatically offers the opportunity to "Compare & pull request" in  a green button at the top of the page.

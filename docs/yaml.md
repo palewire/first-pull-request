@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # YAML
 
 Once you've entered the [dictionary folder](https://github.com/palewire/moneyinpolitics.wtf/tree/main/_data/dictionary), you should see a list of files. Each one contains a word's definition, along with other metadata describing it like whether it is a noun or a verb.

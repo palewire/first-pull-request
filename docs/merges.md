@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Merges
 
 When a maintainer receives a pull request on GitHub, they should first review the changes that were proposed.

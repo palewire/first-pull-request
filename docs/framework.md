@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # The framework
 
 When you land on [github.com/palewire/moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf), you'll see that the repository is already populated with an array of folders and files. This is the code that powers [moneyinpolitics.wtf](https://moneyinpolitics.wtf) by providing the HTML layout, its cosmetic style and, most important, its content.

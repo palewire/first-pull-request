@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # First Pull Request
 
 How to propose changes to open-source software using GitHub [pull requests](https://docs.github.com/en/pull-requests)

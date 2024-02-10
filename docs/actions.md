@@ -1,6 +1,3 @@
-```{include} _templates/nav.html
-```
-
 # Actions
 
 Once your commit is merged into the original repository, that will trigger an update to the moneyinpolitics.wtf website via GitHub Actions.
