@@ -13,7 +13,6 @@ extensions = [
 ]
 source_suffix = ".md"
 master_doc = "index"
-html_extra_path = []
 
 project = "First Pull Request"
 year = datetime.now().year
