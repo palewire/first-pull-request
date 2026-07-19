@@ -59,8 +59,8 @@ endef
 # Python helpers
 #
 
-PIPENV := pipenv run
-PYTHON := $(PIPENV) python -W ignore -m
+UV := uv run
+PYTHON := $(UV) python -W ignore -m
 
 #
 # Commands
@@ -69,12 +69,12 @@ PYTHON := $(PIPENV) python -W ignore -m
 
 all:  # Start the test server
 	$(call banner,    🏗️ Building site 🏗️)
-	@cd docs && $(PIPENV) make livehtml
+	@cd docs && $(UV) make livehtml
 
 
 serve:  # Start the test server
 	$(call banner,    🏗️ Building site 🏗️)
-	$(PIPENV) sphinx-autobuild -b html docs docs/html
+	$(UV) sphinx-autobuild -b html docs docs/html
 
 
 help: ## Show this help. Example: make help

@@ -12,10 +12,10 @@ An edit there followed by push to the master branch on GitHub will trigger the d
 
 ### Running the docs locally
 
-Fork the repository and clone it to your computer. Then enter the directory and install the dependencies with pipenv.
+Fork the repository and clone it to your computer. Then enter the directory and install the dependencies with uv.
 
 ```bash
-pipenv install --dev
+uv sync --all-groups
 ```
 
 Start the test server.
