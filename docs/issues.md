@@ -8,7 +8,7 @@ As of this writing, you should see more than a dozen issues asking contributors 
 
 [![moneyinpolitics.wtf issue tracker](_static/img/issue-tracker.png)](https://github.com/palewire/moneyinpolitics.wtf/issues)
 
-In whatever ticket you choose you will find a comment with a link to the definition's YAML file. For the purposes of this demontration, I am going to choose the ticket for "contribution." 
+In whatever ticket you choose you will find a comment with a link to the definition's YAML file. For the purposes of this demonstration, I am going to choose the ticket for "contribution."
 
 [![moneyinpolitics.wtf issue](_static/img/issue.png)](https://github.com/palewire/moneyinpolitics.wtf/issues/127)
 
