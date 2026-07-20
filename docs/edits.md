@@ -1,6 +1,6 @@
 # Edits
 
-When you arrive on the YAML page, you should see that the `is_use` attribute on the first defintion contains only a single entry.
+When you arrive on the YAML page, you should see that the `is_use` attribute on the first definition contains only a single entry.
 
 !["contribution"](_static/img/example-word.png)
 

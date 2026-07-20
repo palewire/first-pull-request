@@ -22,7 +22,7 @@ Draft something similar, customized to fit your definition and issue number. The
 
 ![Fork popup](_static/img/fork-popup.png)
 
-Because you are not an owner of the moneyinpolitics.wtf repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork respository" button.
+Because you are not an owner of the moneyinpolitics.wtf repository, you do not have permission to save your commits without the approval of the project's maintainers. That's where GitHub's forking system comes in. Click the green "Fork repository" button.
 
 A small box will appear asking you to enter a name. Accept the default value, which should be something like `patch-1`.
 

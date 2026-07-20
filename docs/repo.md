@@ -10,4 +10,4 @@ Version control is also useful when working with others because it allows you to
 
 [![github.com/palewire/moneyinpolitics.wtf](_static/img/moneyinpolitics-repo.png)](https://github.com/palewire/moneyinpolitics.wtf)
 
-The [moneyinpolitics.wtf](https://moneyinpolitics.wtf) website is controlled by a GitHub repository maintained by [Ben Welsh](https://palewi.re/who-is-ben-welsh/), who goes by the handle palewire. It can be found at [github.com/palewire/moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf). You should open its respository in a new tab before you continue. If you don't have a GitHub account already, [make one now](https://github.com/join).
+The [moneyinpolitics.wtf](https://moneyinpolitics.wtf) website is controlled by a GitHub repository maintained by [Ben Welsh](https://palewi.re/who-is-ben-welsh/), who goes by the handle palewire. It can be found at [github.com/palewire/moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf). You should open its repository in a new tab before you continue. If you don't have a GitHub account already, [make one now](https://github.com/join).
